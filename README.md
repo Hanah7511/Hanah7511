@@ -1,37 +1,17 @@
 # Hi, I'm Hana 👋
 
-Final-year AI/ML student interested in building intelligent systems using  
-**Artificial Intelligence, Machine Learning, and Generative AI**.
+I'm an **AI/ML Engineer** from Bangalore · Abu Dhabi — I build production-grade AI systems, not just notebooks.
 
-Currently exploring **LLM systems, RAG architectures, and production ML pipelines**,  
-with strong interests in **Finance and Security applications of AI**.
+I specialise in multi-agent LangGraph workflows, causal ML pipelines (DoWhy, EconML), RAG systems, and MLOps infrastructure. I hold a B.Tech in CS (AI & ML) from JAIN University.
 
 ---
 
-## Interests
-
-• Generative AI and Large Language Models (LLMs)  
-• Machine Learning systems and MLOps workflows  
-• AI applications in Finance and Security  
-• Data-driven decision systems and anomaly detection  
+### Tech Stack
+Python • LangGraph • LangChain • FastAPI • MLflow • Docker • PyTorch • HuggingFace • DoWhy • EconML • GitHub Actions
 
 ---
 
-## Tech Stack
+### Let's connect
 
-Python • Machine Learning • Generative AI • LangChain • Pandas • SQL  
-Scikit-learn • Hugging Face • Streamlit • Git
-
----
-
-## Coding Practice
-
-LeetCode  
-https://leetcode.com/u/hanaalharis
-
----
-
-## Connect With Me
-
-LinkedIn  
-https://www.linkedin.com/in/hana-al-haris-3b7528255
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanaalharis.vercel.app-black?style=for-the-badge&logo=vercel)](https://hanaalharis.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hana_Al_Haris-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hana-al-haris-3b7528255)
